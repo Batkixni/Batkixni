@@ -8,6 +8,6 @@ I am a 20 yo self-taught designer have experience in graphic design and motion d
 
 Code for web-design. Mainly focus on liteweight frameworks like htmx, SolidJS. And also digging on GSAP and P5.JS and more!
 
-[![My Coding Skills](https://skillicons.dev/icons?i=js,html,css,htmx,solidjs,p5js)](https://skillicons.dev)
+[![My Coding Skills](https://skillicons.dev/icons?i=js,html,css,htmx,solidjs,p5js,threejs)](https://skillicons.dev)
 
 **Contact: bax@sorai.tw**
