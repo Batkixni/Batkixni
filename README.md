@@ -1,4 +1,5 @@
-> Bax
+# Bax
+
 > Visual designer / Founder of STUDIO SORAI
 
 I am a 20 yo self-taught designer have experience in graphic design and motion design. Currently working as a freelancer. 
