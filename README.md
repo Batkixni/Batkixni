@@ -8,6 +8,6 @@ I am a 20 yo self-taught designer have experience in graphic design and motion d
 
 Code for web-design. Mainly focus on liteweight frameworks like htm. Also digging on GSAP and P5.JS and recently start to learn Godot for game project.
 
-[![My Coding Skills](https://skillicons.dev/icons?i=js,html,css,htmx,bun,elysia,p5js,arduino,godot)](https://skillicons.dev)
+[![My Coding Skills](https://skillicons.dev/icons?i=js,html,css,htmx,p5js,arduino)](https://skillicons.dev)
 
 **Contact: bax@sorai.tw**
