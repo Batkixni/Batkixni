@@ -10,4 +10,4 @@ Code for web-design. Mainly focus on liteweight frameworks like htmx.
 
 [![My Coding Skills](https://skillicons.dev/icons?i=js,html,css,htmx,p5js,arduino)](https://skillicons.dev)
 
-**Contact: bax@sorai.tw**
+**Contact: hello@bax.vision**
